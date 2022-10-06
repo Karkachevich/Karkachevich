@@ -1,16 +1,14 @@
 ### Hi there 👋
+Меня зовут **Каркачевич Михаил**. Я занимаюсь программированием с 2019 года. 
 
-<!--
-**Karkachevich/Karkachevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+с апреля 2020 года до сентября 2021 года обучался в "Академии шаг"
+на разработчика программного обеспечения. Изучал основы программирования 
+с использованием языков С++, С#.
+С октября 2020 года обучаюсь на веб-программиста в Яндекс.Практикуме
 
-Here are some ideas to get you started:
+### Навыки: 
+TypeScript JavaScript React Redux Git HTML5 CSS3  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+(https://t.me/KarkachevichMV)
+
