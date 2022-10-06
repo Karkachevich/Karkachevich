@@ -10,5 +10,5 @@
 TypeScript JavaScript React Redux Git HTML5 CSS3  
 
 ### Контакты
-(https://t.me/KarkachevichMV)
+https://t.me/KarkachevichMV
 
