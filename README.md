@@ -34,3 +34,4 @@
 ## Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karkachevich&layout=compact)](https://github.com/Karkachevich/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karkachevich)](https://github.com/Karkachevich/github-readme-stats)
