@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&color=030A0E&repeat=false&width=550&height=20&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%2C+%D1%8F+%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%81%D1%8C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC+%D1%81+2019+%D0%B3%D0%BE%D0%B4%D0%B0.)](https://git.io/typing-svg)
 
 *С апреля 2020 года до сентября 2021 года обучался в "Академии шаг" на разработчика программного обеспечения. Изучал основы программирования с использованием языков С++, С#.
-С октября 2021 года обучаюсь на веб-программиста в `ЯНДЕКС.ПРАКТИКУМЕ`*
+С октября 2021 года обучаюсь на веб-программиста в <a href="https://practicum.yandex.ru/web-plus/">`ЯНДЕКС.ПРАКТИКУМЕ`</a>*
 
 ## Навыки: 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
