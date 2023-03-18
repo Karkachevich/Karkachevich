@@ -9,6 +9,8 @@
 ## Навыки: 
 TypeScript JavaScript React Redux Git HTML5 CSS3  
 
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## Контакты
 https://t.me/KarkachevichMV
 
