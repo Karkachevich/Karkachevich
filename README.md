@@ -33,4 +33,4 @@
 
 ## Статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karkachevich)](https://github.com/Karkachevich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karkachevich&layout=compact)](https://github.com/Karkachevich/github-readme-stats)
