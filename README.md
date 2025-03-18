@@ -24,11 +24,6 @@
 - ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Контакты
-
-<a href="https://t.me/KarkachevichMV" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
 
 ## Статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karkachevich&show_icons=true&theme=transparent&hide=issues)](https://github.com/Karkachevich/github-readme-stats)
